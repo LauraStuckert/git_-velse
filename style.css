@@ -5,3 +5,11 @@
   background-color: beige;
   color: blue;
 }
+
+header {
+  padding: 1rem;
+}
+
+main {
+  padding: 1rem;
+}
